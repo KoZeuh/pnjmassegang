@@ -1,5 +1,5 @@
 # pnjmassegang
-PNJ or Vehicles in the Ballas,Vagos,Lost MC,Families
+PNJ et véhicules dans les quartiers (configurable)
 
 Développé à l'arrache donc libre à vous de le modifier/optimiser
 Aucun support founi pour ça.
